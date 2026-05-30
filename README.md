@@ -50,3 +50,5 @@ The terminal log interface screenshot below tracks the execution trace of the on
 The screenshot below confirms that the cloud directory successfully registered the automated user records, verified identity attribute alignment, and correctly applied defensive user boundary containment groupings.
 
 ![Entra ID Group Inheritance Audit](Screenshots/entra_id_rbac_verification.png)
+
+![Entra ID Group Inheritance Audit](Screenshots/entra_id_rbac_verification2.png)
