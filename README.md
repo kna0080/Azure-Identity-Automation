@@ -39,13 +39,6 @@ The script addresses identity state lifecycle mechanics via four distinct progra
 
 ---
 
-## Technical Verification & Artifacts
-
-### 1. Automation Pipeline Log Execution
-The terminal log interface screenshot below tracks the execution trace of the onboarding platform script, validating user directory entity generation and dynamic access container assignment tasks in real-time.
-
-![PowerShell Execution Log](Screenshots/powershell_script_execution.png)
-
 ## 👥 Identity Governance Automation Verification
 
   ### PowerShell Orchestration & Script Execution Terminal Log
