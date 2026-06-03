@@ -1,0 +1,4 @@
+# Block local environment config parameters
+.vscode/
+*.log
+*.ps1xml
