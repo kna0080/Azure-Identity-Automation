@@ -46,9 +46,11 @@ The terminal log interface screenshot below tracks the execution trace of the on
 
 ![PowerShell Execution Log](Screenshots/powershell_script_execution.png)
 
-### 2. Entra ID Directory Integrity & RBAC Access Audit
-The screenshot below confirms that the cloud directory successfully registered the automated user records, verified identity attribute alignment, and correctly applied defensive user boundary containment groupings.
+## 👥 Identity Governance Automation Verification
 
-![Entra ID Group Inheritance Audit](Screenshots/entra_id_rbac_verification.png)
-
-![Entra ID Group Inheritance Audit](Screenshots/entra_id_rbac_verification2.png)
+  ### PowerShell Orchestration & Script Execution Terminal Log
+  ![Automated PowerShell Script Execution Log](Screenshots/powershell_script_execution.png)
+  
+  ### Entra ID Group Policy & Access Validation Enforcements
+  ![Entra ID RBAC Directory Ingestion Verification Part 1](Screenshots/entra_id_rbac_verification.png)
+  ![Entra ID RBAC Directory Ingestion Verification Part 2](Screenshots/entra_id_rbac_verification2.png)
